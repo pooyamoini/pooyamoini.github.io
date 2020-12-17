@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Pouya Moeini"
 title_separator          : "-"
 name                     : &name "Pouya Moeini"
-description              : &description "personal description"
+description              : &description "Computer Engineering Student @ SUT"
 url                      : https://pooyamoini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "pooyamoini.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
