@@ -7,5 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a third-year undergrad in Computer Engineering at the Sharif University of Technology and Also minor in Math.
-My research interests include Statistics, Machine Learning and Information theory in general and Deep learning, Meta learning as Distributed Learning in particular. Currently I am research assistant at <a href="http://www.dml.ir">DML</a> laboratory and a member of social networks team. Also, I am interested in the academic space and willing to work in this space in the future, rather than industrial space. For more information please check my <a href="/files/cv.pdf">CV</a>.
+I’m currently a third-year undergrad in Computer Engineering at the Sharif University of Technology. I also have minoring in mathematics. My research interests include Machine learning theory, Information theory and Statistics. Currently I am a research assistant at <a href="http://dml.ir/">Digital Media Lab</a> and member of a social networks team. For more information about me, please check my <a href="https://pooyamoini.github.io/files/cv.pdf">CV</a>.
