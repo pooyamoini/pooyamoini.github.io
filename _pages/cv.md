@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Engineering, Sharif University of Technology, 2018 - 
+* Minor in Math , Sharif University of Technology, 2020 - 
 
   
 Talks
@@ -26,6 +27,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
